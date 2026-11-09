@@ -123,16 +123,6 @@ Bra platser att leta på är [Kenney](https://kenney.nl/assets), [Poly Pizza](ht
 - **Draw call:** instruktion till grafikkortet att rita något.
 - **LOD:** enklare versioner av en modell på avstånd.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan en mesh och ett material?
-2. Vad används UV-koordinater till?
-3. Varför är high poly-modeller ett problem på ett fristående headset?
-4. Vad händer med minnet om du halverar sidorna på en textur?
-5. Vad är skillnaden mellan realtidsljus och förberäknat ljus?
-6. Vad betyder CC BY, och vad måste du göra då?
-7. Varför är gråboxning värt besväret?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) skapar ni 3D-miljön med modeller, material, texturer och ljussättning anpassad för VR, och redovisar var era assets kommer ifrån. I [3D-Spel](../projekt/3d-spel/README.md) bygger du en bana med 3D-modeller, material och texturer. Egna enkla former duger bra.

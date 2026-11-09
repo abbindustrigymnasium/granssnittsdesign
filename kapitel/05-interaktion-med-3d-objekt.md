@@ -123,15 +123,6 @@ Det finns flera lösningar. Sätt **Collision Detection** på bollens `Rigidbody
 - **Tunneleffekt:** snabbt föremål passerar genom andra föremål mellan fysikstegen.
 - **Raycasting:** att skicka ut en osynlig stråle och se vad den träffar.
 
-## Testa dig själv
-
-1. Vilka tre frågor ska varje interaktion kunna svara på?
-2. När passar direkt grepp bättre än strålpekning, och tvärtom?
-3. Vad är skillnaden mellan kollision och trigger?
-4. Varför är Velocity Tracking bättre än Instantaneous för en golfklubba?
-5. Vad är tunneleffekt, och vilka lösningar finns?
-6. Varför är det smart att ett samlarföremål skickar en signal i stället för att själv räkna poäng?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) bygger ni grepp, kast, träffdetektion och regelsystem. I [3D-Spel](../projekt/3d-spel/README.md) hanterar du kollisioner, mål, samlarföremål och fiender.

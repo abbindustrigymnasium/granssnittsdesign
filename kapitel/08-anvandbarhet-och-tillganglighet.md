@@ -124,16 +124,6 @@ Skriv ner varje problem, gradera hur allvarligt det är och fixa det viktigaste 
 - **WCAG:** riktlinjer för tillgänglig webb.
 - **SUS:** enkät som ger ett användbarhetsvärde mellan 0 och 100.
 
-## Testa dig själv
-
-1. Vilka tre delar ingår i användbarhet enligt ISO 9241-11?
-2. Vad är skillnaden mellan användbarhet och tillgänglighet?
-3. Ge två exempel på konventioner i spel.
-4. Hur minskar du kognitiv belastning i en startmeny?
-5. Varför ska information inte bara ges med färg?
-6. Varför ska du inte hjälpa testaren?
-7. Hur kan du använda ett SUS-värde?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) låter ni någon utanför gruppen testa spelet och åtgärdar sedan feedbacken. I [3D-Spel](../projekt/3d-spel/README.md) låter du klasskamrater testa och förbättrar sedan tillgängligheten, till exempel kontrast, textstorlek och kontroller.

@@ -124,16 +124,6 @@ Ju mer data du hämtar utifrån, desto mer kan gå fel. Det är ett skäl att b�
 - **Datakälla:** var uppgifterna till gränssnittet kommer ifrån.
 - **API:** gränssnitt mellan program, ofta för att hämta data över nätet.
 
-## Testa dig själv
-
-1. Varför fungerar en HUD sämre i VR än i ett vanligt spel?
-2. Vilka inställningar behöver en Canvas i VR?
-3. Hur påverkas synvinkeln om avståndet fördubblas och bokstäverna är lika stora?
-4. Varför är det bra att ge samma information på flera sätt?
-5. Vad gör spatialt ljud som vanligt ljud inte kan?
-6. Vilka frågor bör du ställa när du väljer en datakälla?
-7. Vad ska gränssnittet göra när en datakälla saknas?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) gör ni en poängtavla i World Space, en startmeny, ljud och haptik, och diskuterar vilka datakällor som kan ge spelaren information. I [3D-Spel](../projekt/3d-spel/README.md) gör du startmeny, HUD och game over-skärm och funderar på vilken information spelaren behöver och var den kommer ifrån.

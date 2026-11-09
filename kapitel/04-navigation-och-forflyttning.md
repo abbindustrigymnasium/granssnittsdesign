@@ -112,15 +112,6 @@ Orientering behövs också i VR. Eftersom spelaren kan vända sig åt alla håll
 - **Snap turn:** vridning i fasta steg.
 - **Rumsskala:** spelaren rör sig fysiskt i ett avgränsat område.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan orientering och förflyttning?
-2. Vad gör ett landmärke, och vad kännetecknar ett bra?
-3. Varför ska rörelsen ligga i `_physics_process`?
-4. Vad händer om du inte normaliserar en diagonal rörelse?
-5. Varför ger mjuk förflyttning oftare illamående än teleportering?
-6. Varför räcker det inte att lägga något i scenen för att spelaren ska se det i VR?
-
 ## Koppling till projektet
 
 I [3D-Spel](../projekt/3d-spel/README.md) bygger du spelarens rörelse, en kamera som följer spelaren och kollisioner. I [VR/AR - Projekt](../projekt/vr-ar/README.md) bygger du en sport där du väljer förflyttning med hänsyn till komforten.

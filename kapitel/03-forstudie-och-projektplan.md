@@ -115,16 +115,6 @@ Betygskriterierna handlar också om hur du **värderar** din projektplan. Det be
 - **Framgångskriterium:** mätbart sätt att avgöra om målet är nått.
 - **Riskvärde:** sannolikhet multiplicerat med konsekvens.
 
-## Testa dig själv
-
-1. Varför ska en problemformulering inte innehålla lösningen?
-2. Varför är "alla" en dålig målgrupp?
-3. Vad ska du ha med i en typanvändare, och vad ska du låta bli?
-4. Vad är skillnaden mellan en målsättning och ett framgångskriterium?
-5. Hur räknar du fram riskvärde, och vad använder du det till?
-6. Vad löser en branch som inte löses av ett vanligt sparat dokument?
-7. Vad betyder det att värdera en projektplan?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) fyller ni i planeringsmallen och lämnar in den innan ni bygger spelet. I [3D-Spel](../projekt/3d-spel/README.md) skriver du en egen projektplan med spelidé, målgrupp, skisser, kravlista och tekniska förutsättningar.

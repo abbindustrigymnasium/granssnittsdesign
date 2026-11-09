@@ -101,15 +101,6 @@ Gemensamt för de här exemplen är att 3D ger något som en vanlig skärm inte 
 - **DoF:** frihetsgrader, antal sätt spårningen kan mäta rörelse.
 - **Geofence:** virtuell geografisk gräns som utlöser något.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan AR och MR?
-2. Varför är immersion och närvaro inte samma sak?
-3. Vad kan du göra med 6DoF som du inte kan göra med 3DoF?
-4. Varför fungerar satellitpositionering sämre inomhus som grund för en tjänst?
-5. Ge ett exempel på en tjänst utformad efter geografisk kontext och förklara vad den använder platsen till.
-6. Vad menas med att spetsteknik har en livscykel?
-
 ## Koppling till projektet
 
 [VR/AR - Projekt](../projekt/vr-ar/README.md) börjar med en introduktion till just de här begreppen. När du väljer sport, fundera på vad VR ger just den sporten. Kapitlets avsnitt om livscykler är också bakgrund till [Spetsteknikens livscykel](../projekt/spetsteknikens-livscykel/README.md).

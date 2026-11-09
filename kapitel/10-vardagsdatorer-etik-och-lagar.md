@@ -100,16 +100,6 @@ Designen blir bättre av granskningen. Den blir enklare, och risken blir mindre.
 - **Upphovsrätt:** skydd för den som skapat ett verk.
 - **Tredje man:** någon som berörs utan att själv vara användare.
 
-## Testa dig själv
-
-1. Vad betyder ubicomp? Ge två exempel.
-2. Varför är platsdata känsliga?
-3. Vad är skillnaden mellan vad lagen kräver och vad som är etiskt rätt?
-4. Vad är en personuppgift enligt GDPR?
-5. Vad behöver du kontrollera innan du använder en modell du hittat på nätet?
-6. Vilken lag gäller för en kommuns app, och vad handlar den om?
-7. Varför kan AR väcka integritetsfrågor för människor som inte använder tekniken?
-
 ## Koppling till projektet
 
 Du tillämpar det här när du väljer assets och redovisar källa och licens i [VR/AR - Projekt](../projekt/vr-ar/README.md) och [3D-Spel](../projekt/3d-spel/README.md). Du använder det också när du användartestar: fråga om lov och spara inte mer än du behöver. Kapitlets vardagsexempel kan också vara bakgrund till [Spetsteknikens livscykel](../projekt/spetsteknikens-livscykel/README.md).

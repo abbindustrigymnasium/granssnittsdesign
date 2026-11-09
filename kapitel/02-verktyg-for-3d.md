@@ -117,15 +117,6 @@ Vilken motor du använder bestäms av projektet i den här kursen, men i verklig
 - **FPS:** bilder per sekund.
 - **Bildbudget:** tiden som finns för att räkna ut en bild.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan ett GameObject i Unity och en nod i Godot?
-2. Vad händer med barnen när du flyttar en förälder?
-3. Varför är korrekt skala viktigare i VR än på en vanlig skärm?
-4. Vad är skillnaden mellan `Update()` och `FixedUpdate()`?
-5. Varför kan låg bildfrekvens ge illamående i VR?
-6. Varför finns en simulator, och varför räcker den inte?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) går de första lektionerna till att installera Unity, lära sig grunderna och bygga VR-spelaren. I [3D-Spel](../projekt/3d-spel/README.md) repeterar du Godots noder och scener i 3D innan du börjar på tutorialen.

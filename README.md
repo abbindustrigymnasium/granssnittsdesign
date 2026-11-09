@@ -9,9 +9,8 @@ En översikt över kursen, dess delar och projekt: [Gränssnittsdesign - Kurspre
 ## Så använder du boken
 
 1. Läs kapitlen i ordning. De följer kursens gång.
-2. Svara på frågorna under **Testa dig själv** utan att titta i texten. Kan du inte svara, läs avsnittet igen.
-3. Gå till projektmappen när ett kapitel hänvisar dit. Där står vad du ska göra, och i vilken ordning.
-4. Slå upp [kursplanen](kursplan.md) när du vill veta exakt vad betygen kräver.
+2. Gå till projektmappen när ett kapitel hänvisar dit. Där står vad du ska göra, och i vilken ordning.
+3. Slå upp [kursplanen](kursplan.md) när du vill veta exakt vad betygen kräver.
 
 ## Innehåll
 

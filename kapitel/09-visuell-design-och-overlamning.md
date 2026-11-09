@@ -123,15 +123,6 @@ Bygg tidigt och ofta. Det första bygget tar lång tid och avslöjar saker som i
 - **Överlämning:** att lämna över arbetet till någon annan.
 - **Git LFS:** tillägg till Git för stora filer.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan hierarki och kontrast?
-2. Varför är det bra att skissa innan du bygger?
-3. Vad ska en stilguide innehålla?
-4. Vad är skillnaden mellan en prototyp på låg och hög nivå?
-5. Varför ska `.meta`-filer alltid committas?
-6. Vad bör en person som tar över ditt projekt hitta i repot?
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) börjar ni med skisser i planeringsmallen och avslutar med att bygga en `.apk` och putsa grafik, ljud och menyer. I [3D-Spel](../projekt/3d-spel/README.md) exporterar du till `.exe` och använder Git LFS. Betygskriterierna tar också upp stilguide och dokumentation, så fråga läraren hur dessa ska lämnas in.
