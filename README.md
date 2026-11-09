@@ -2,6 +2,10 @@
 
 Det här är kursboken för kursen som hos Skolverket heter **Gränssnitt 3D** (kurskod GRÄGRN0, 100 poäng). Du lär dig hur människor och datorer möts i tredimensionella miljöer: hur du gör 3D-objekt, hur man rör sig och agerar i en virtuell värld, och hur ett gränssnitt blir tydligt och tillgängligt. Under kursen bygger du ett VR-spel i Unity för Meta Quest 3 och ett 3D-spel i Godot.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Gränssnittsdesign - Kurspresentation.pptx](Gr%C3%A4nssnittsdesign%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 1. Läs kapitlen i ordning. De följer kursens gång.
