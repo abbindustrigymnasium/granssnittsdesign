@@ -110,14 +110,6 @@ Designen blir bättre av granskningen. Den blir enklare, och risken blir mindre.
 6. Vilken lag gäller för en kommuns app, och vad handlar den om?
 7. Varför kan AR väcka integritetsfrågor för människor som inte använder tekniken?
 
-## Övningar
-
-**Grund.** Lista fem datorer du använt i dag som inte är en dator eller en telefon. Vilken inmatning och utmatning har de?
-
-**Vidare.** Gör samma granskning som i AR-exemplet för ditt eget spel. Tänk även på vad ni gör vid användartestet.
-
-**Utmaning.** Headset har kameror och spårar din kropp. Skriv en kort text där du tar ställning till vilken data ett headset bör få skicka till en app, och motivera utifrån ett par exempel och minst en lag.
-
 ## Koppling till projektet
 
 Du tillämpar det här när du väljer assets och redovisar källa och licens i [VR/AR - Projekt](../projekt/vr-ar/README.md) och [3D-Spel](../projekt/3d-spel/README.md). Du använder det också när du användartestar: fråga om lov och spara inte mer än du behöver. Kapitlets vardagsexempel kan också vara bakgrund till [Spetsteknikens livscykel](../projekt/spetsteknikens-livscykel/README.md).

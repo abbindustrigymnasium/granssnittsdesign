@@ -132,14 +132,6 @@ Bygg tidigt och ofta. Det första bygget tar lång tid och avslöjar saker som i
 5. Varför ska `.meta`-filer alltid committas?
 6. Vad bör en person som tar över ditt projekt hitta i repot?
 
-## Övningar
-
-**Grund.** Ta en skärmbild av en meny du tycker är dålig. Peka ut vilka principer den bryter mot, och skissa en förbättring.
-
-**Vidare.** Skriv en stilguide för ditt eget projekt, med minst sex rader som i exemplet.
-
-**Utmaning.** Be någon utanför projektet klona ditt repo och följa din README för att bygga spelet. Anteckna allt som inte fungerade och förbättra dokumentationen.
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) börjar ni med skisser i planeringsmallen och avslutar med att bygga en `.apk` och putsa grafik, ljud och menyer. I [3D-Spel](../projekt/3d-spel/README.md) exporterar du till `.exe` och använder Git LFS. Betygskriterierna tar också upp stilguide och dokumentation, så fråga läraren hur dessa ska lämnas in.

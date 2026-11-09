@@ -126,26 +126,6 @@ Vilken motor du använder bestäms av projektet i den här kursen, men i verklig
 5. Varför kan låg bildfrekvens ge illamående i VR?
 6. Varför finns en simulator, och varför räcker den inte?
 
-## Övningar
-
-**Grund.** Skapa en scen med ett golv och en kub i antingen Unity eller Godot. Gör kuben till barn till ett tomt objekt. Flytta föräldern och beskriv vad som händer med kubens lokala och globala position.
-
-**Vidare.** Räkna ut bildbudgeten vid 120 FPS. Hur mycket mindre tid är det jämfört med 72 FPS?
-
-<details><summary>Svar</summary>
-
-1000 / 120 = 8,33 ms per bild. Jämfört med 13,89 ms är det 5,56 ms mindre.
-
-</details>
-
-**Utmaning.** Dela upp en bildbudget på 13,89 ms. Om grafiken tar 9,0 ms och fysiken 2,5 ms, hur mycket finns kvar till spellogik och ljud? Hur stor andel av budgeten har redan gått åt?
-
-<details><summary>Svar</summary>
-
-13,89 − 9,0 − 2,5 = 2,39 ms finns kvar. Förbrukat är 11,5 / 13,89, ungefär 83 procent.
-
-</details>
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) går de första lektionerna till att installera Unity, lära sig grunderna och bygga VR-spelaren. I [3D-Spel](../projekt/3d-spel/README.md) repeterar du Godots noder och scener i 3D innan du börjar på tutorialen.

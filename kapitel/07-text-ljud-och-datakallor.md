@@ -134,20 +134,6 @@ Ju mer data du hämtar utifrån, desto mer kan gå fel. Det är ett skäl att b�
 6. Vilka frågor bör du ställa när du väljer en datakälla?
 7. Vad ska gränssnittet göra när en datakälla saknas?
 
-## Övningar
-
-**Grund.** Lista all information i ett spel du spelat. Ange för varje del var den kommer ifrån.
-
-**Vidare.** En text med 4 cm höga bokstäver ska kunna läsas på 5 m avstånd. Hur hög behöver texten vara för att ge samma synvinkel på 2 m avstånd?
-
-<details><summary>Svar</summary>
-
-Samma förhållande mellan höjd och avstånd ger ungefär samma vinkel: 4 / 5 = 0,8 cm per meter, alltså 0,8 × 2 = 1,6 cm.
-
-</details>
-
-**Utmaning.** Föreslå en datakälla utifrån som skulle göra ditt spel bättre, till exempel verkligt väder eller en global topplista. Beskriv vad som händer när den saknas, och vilken integritetsrisk den medför.
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) gör ni en poängtavla i World Space, en startmeny, ljud och haptik, och diskuterar vilka datakällor som kan ge spelaren information. I [3D-Spel](../projekt/3d-spel/README.md) gör du startmeny, HUD och game over-skärm och funderar på vilken information spelaren behöver och var den kommer ifrån.

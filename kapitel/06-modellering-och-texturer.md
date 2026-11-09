@@ -133,26 +133,6 @@ Bra platser att leta på är [Kenney](https://kenney.nl/assets), [Poly Pizza](ht
 6. Vad betyder CC BY, och vad måste du göra då?
 7. Varför är gråboxning värt besväret?
 
-## Övningar
-
-**Grund.** Skapa ett material i Unity eller Godot. Ändra grundfärgen och ytjämnheten och beskriv vad som händer med en kula i scenen.
-
-**Vidare.** En textur är 1024 × 1024 bildpunkter och har 4 byte per bildpunkt. Hur många MiB är den okomprimerad? Hur mycket blir det med mipmaps?
-
-<details><summary>Svar</summary>
-
-1024 × 1024 × 4 = 4 194 304 byte = 4 MiB. Med mipmaps ungefär 4 × 4/3 ≈ 5,33 MiB.
-
-</details>
-
-**Utmaning.** Räkna ut minnet för en textur på 2048 × 2048 med ASTC 4 × 4 och ASTC 8 × 8. Blocken är alltid 128 bitar. Vad vinner du och vad förlorar du om du väljer 8 × 8?
-
-<details><summary>Svar</summary>
-
-4 × 4: 128 / 16 = 8 bitar per bildpunkt, alltså 4 194 304 × 8 / 8 = 4 MiB. 8 × 8: 128 / 64 = 2 bitar per bildpunkt, alltså 1 MiB. Med 8 × 8 sparar du minne, men bilden får sämre kvalitet.
-
-</details>
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) skapar ni 3D-miljön med modeller, material, texturer och ljussättning anpassad för VR, och redovisar var era assets kommer ifrån. I [3D-Spel](../projekt/3d-spel/README.md) bygger du en bana med 3D-modeller, material och texturer. Egna enkla former duger bra.

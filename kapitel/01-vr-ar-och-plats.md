@@ -110,14 +110,6 @@ Gemensamt för de här exemplen är att 3D ger något som en vanlig skärm inte 
 5. Ge ett exempel på en tjänst utformad efter geografisk kontext och förklara vad den använder platsen till.
 6. Vad menas med att spetsteknik har en livscykel?
 
-## Övningar
-
-**Grund.** Välj tre appar eller spel du använt. Placera in dem på kontinuumet och motivera med de två frågorna från det genomgångna exemplet.
-
-**Vidare.** Hitta något som bryter närvaron i ett spel du känner till. Beskriv vad som händer och föreslå en designändring som skulle lösa det.
-
-**Utmaning.** Tänk ut en tjänst utformad efter geografisk kontext för din skola eller hemort. Skriv vilken data den behöver, vad användaren vinner på den och vad som kan gå fel om platsen blir fel med 20 meter.
-
 ## Koppling till projektet
 
 [VR/AR - Projekt](../projekt/vr-ar/README.md) börjar med en introduktion till just de här begreppen. När du väljer sport, fundera på vad VR ger just den sporten. Kapitlets avsnitt om livscykler är också bakgrund till [Spetsteknikens livscykel](../projekt/spetsteknikens-livscykel/README.md).

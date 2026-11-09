@@ -121,20 +121,6 @@ Orientering behövs också i VR. Eftersom spelaren kan vända sig åt alla håll
 5. Varför ger mjuk förflyttning oftare illamående än teleportering?
 6. Varför räcker det inte att lägga något i scenen för att spelaren ska se det i VR?
 
-## Övningar
-
-**Grund.** Bygg en liten bana i Godot och lägg in ett landmärke. Be en kompis ta sig till en plats utan instruktioner. Vad hjälpte? Vad saknades?
-
-**Vidare.** En spelare går med hastigheten 4 m/s utan normalisering och trycker på två riktningar samtidigt. Hur snabbt rör hon sig? Vad blir sträckan under en sekund om du normaliserar?
-
-<details><summary>Svar</summary>
-
-4 × √2 ≈ 5,66 m/s utan normalisering. Med normalisering rör hon sig 4 meter på en sekund.
-
-</details>
-
-**Utmaning.** Läs kodsnutten [playerMovement.cs](https://github.com/abbjetmus/3D-AR-VR-Interface-Design/blob/main/Code%20Snippets/3D/playerMovement.cs) i kursens material. Skriptet flyttar en `Rigidbody` i `Update()`. Förklara varför det bryter mot kursens fysikregel och skriv om det så att flytten sker i `FixedUpdate()`.
-
 ## Koppling till projektet
 
 I [3D-Spel](../projekt/3d-spel/README.md) bygger du spelarens rörelse, en kamera som följer spelaren och kollisioner. I [VR/AR - Projekt](../projekt/vr-ar/README.md) bygger du en sport där du väljer förflyttning med hänsyn till komforten.

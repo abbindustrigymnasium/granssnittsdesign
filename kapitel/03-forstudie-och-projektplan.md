@@ -125,20 +125,6 @@ Betygskriterierna handlar också om hur du **värderar** din projektplan. Det be
 6. Vad löser en branch som inte löses av ett vanligt sparat dokument?
 7. Vad betyder det att värdera en projektplan?
 
-## Övningar
-
-**Grund.** Formulera om "spelet ska vara kul" till två mätbara framgångskriterier.
-
-**Vidare.** Skriv en typanvändare för ditt eget projekt. Max sex meningar. Stryk allt som inte påverkar designen.
-
-**Utmaning.** Gör en risktabell med minst fem risker för ditt projekt. Räkna ut riskvärden och rangordna dem. En risk har sannolikhet 4 och konsekvens 5, en annan 5 och 3. Vilken tar du först?
-
-<details><summary>Svar</summary>
-
-4 × 5 = 20 och 5 × 3 = 15. Den första risken tas först.
-
-</details>
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) fyller ni i planeringsmallen och lämnar in den innan ni bygger spelet. I [3D-Spel](../projekt/3d-spel/README.md) skriver du en egen projektplan med spelidé, målgrupp, skisser, kravlista och tekniska förutsättningar.

@@ -134,26 +134,6 @@ Skriv ner varje problem, gradera hur allvarligt det är och fixa det viktigaste 
 6. Varför ska du inte hjälpa testaren?
 7. Hur kan du använda ett SUS-värde?
 
-## Övningar
-
-**Grund.** Välj en meny i ett spel och granska den mot två av principerna ovan.
-
-**Vidare.** Beräkna SUS för svaren 3, 3, 4, 2, 3, 2, 4, 3, 3, 3.
-
-<details><summary>Svar</summary>
-
-Udda: 2+3+2+3+2 = 12. Jämna: 2+3+3+2+2 = 12. SUS = 24 × 2,5 = 60.
-
-</details>
-
-**Utmaning.** Vit text på grön bakgrund `#2E7D32` (luminans 0,1548). Räkna ut kontrasten. Klarar den 4,5:1?
-
-<details><summary>Svar</summary>
-
-(1,0 + 0,05) / (0,1548 + 0,05) = 1,05 / 0,2048 ≈ 5,13:1. Ja, den klarar 4,5:1.
-
-</details>
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) låter ni någon utanför gruppen testa spelet och åtgärdar sedan feedbacken. I [3D-Spel](../projekt/3d-spel/README.md) låter du klasskamrater testa och förbättrar sedan tillgängligheten, till exempel kontrast, textstorlek och kontroller.

@@ -10,9 +10,8 @@ En översikt över kursen, dess delar och projekt: [Gränssnittsdesign - Kurspre
 
 1. Läs kapitlen i ordning. De följer kursens gång.
 2. Svara på frågorna under **Testa dig själv** utan att titta i texten. Kan du inte svara, läs avsnittet igen.
-3. Välj övningar efter nivå: **Grund**, **Vidare** och **Utmaning**.
-4. Gå till projektmappen när ett kapitel hänvisar dit. Där står vad du ska göra, och i vilken ordning.
-5. Slå upp [kursplanen](kursplan.md) när du vill veta exakt vad betygen kräver.
+3. Gå till projektmappen när ett kapitel hänvisar dit. Där står vad du ska göra, och i vilken ordning.
+4. Slå upp [kursplanen](kursplan.md) när du vill veta exakt vad betygen kräver.
 
 ## Innehåll
 

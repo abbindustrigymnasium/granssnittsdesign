@@ -132,20 +132,6 @@ Det finns flera lösningar. Sätt **Collision Detection** på bollens `Rigidbody
 5. Vad är tunneleffekt, och vilka lösningar finns?
 6. Varför är det smart att ett samlarföremål skickar en signal i stället för att själv räkna poäng?
 
-## Övningar
-
-**Grund.** Gör en kub greppbar i Unity med `XRGrabInteractable`. Testa med simulatorn eller i headset.
-
-**Vidare.** En pil flyger i 30 m/s och fysiksteget är 0,02 s. Hur långt flyttas pilen per steg? Pilens collider är 0,50 m lång. Hur tjock måste en vägg minst vara för att pilens collider säkert ska överlappa väggen i något steg?
-
-<details><summary>Svar</summary>
-
-30 × 0,02 = 0,60 m per steg. Pilen är 0,50 m lång, så sträckan mellan stegen är 0,10 m längre än collidern. Väggen måste vara minst 0,10 m tjock (0,60 − 0,50).
-
-</details>
-
-**Utmaning.** Bygg två varianter av samma interaktion, en med ljud och vibration och en utan återkoppling. Testa på en kompis. Vad märks? Skriv ner resultatet som ett framgångskriterium du hade kunnat använda i förväg.
-
 ## Koppling till projektet
 
 I [VR/AR - Projekt](../projekt/vr-ar/README.md) bygger ni grepp, kast, träffdetektion och regelsystem. I [3D-Spel](../projekt/3d-spel/README.md) hanterar du kollisioner, mål, samlarföremål och fiender.
